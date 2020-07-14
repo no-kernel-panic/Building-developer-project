@@ -1,0 +1,1 @@
+{Zawartosc Pomiesczenia=[Thor hammer, Holy grail], Imie=Lord, Pesel=1, Pomieszczenia=[0, 0], Nazwisko=Voldemort, Data urodzenia=230, Adres=Not in Hogwarts}
